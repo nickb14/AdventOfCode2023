@@ -27,13 +27,11 @@ def main():
                         if num in numbers:
                             lineDecimals += numbers[num]
                             break
-
-                                
             
             sum += int(lineDecimals[0] + lineDecimals[-1])
             
             line = f.readline()
     
     print(sum)
-    
+
 main()
