@@ -1,5 +1,3 @@
-# I'm here
-
 def main():
 
     numbers = {'zero': '0',
