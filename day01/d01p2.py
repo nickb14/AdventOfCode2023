@@ -35,4 +35,5 @@ def main():
             line = f.readline()
     
     print(sum)
+    
 main()
