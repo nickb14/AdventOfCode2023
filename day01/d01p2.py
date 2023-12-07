@@ -1,3 +1,5 @@
+# I'm here
+
 def main():
 
     numbers = {'zero': '0',
@@ -33,5 +35,5 @@ def main():
             line = f.readline()
     
     print(sum)
-    # try again
+
 main()
