@@ -1,6 +1,7 @@
 #references
 # https://www.w3schools.com/python/
 # https://stackoverflow.com/questions/1663807/how-do-i-iterate-through-two-lists-in-parallel
+# https://www.geeksforgeeks.org/copy-constructor-in-python/
 
 import copy
 
